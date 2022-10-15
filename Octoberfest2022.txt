@@ -1,1 +1,2 @@
 This is for hacktoberfest 2022
+This repo has tag of hacktoberfest,hacktoberfest2022 and hacktoberfest-accepted.
